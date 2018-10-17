@@ -12,7 +12,7 @@ public class KalkulatorGit {
 		
 	}
 	public double mnozenje(double a , double b) {
-		return 0;
+		return a * b;
 		
 	}
 	public double djeljenje(double a , double b) {
