@@ -2,7 +2,7 @@
 public class KalkulatorGit {
 
 	public double sabiranje(double a, double b) {
-		return 0;
+		return a+b;
 
 	}
 
