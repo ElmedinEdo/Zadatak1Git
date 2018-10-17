@@ -1,9 +1,22 @@
 
 public class KalkulatorGit {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 
+	public double sabiranje(double a , double b) {
+		return 0;
+		
 	}
-
+	public double  oduzimanje(double a , double b) {
+		return 0;
+		
+	}
+	public double mnozenje(double a , double b) {
+		return 0;
+		
+	}
+	public double djeljenje(double a , double b) {
+		return 0;
+		
+	}
 }
